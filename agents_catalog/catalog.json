@@ -1,0 +1,23 @@
+{
+  "model":
+  {
+    "model1":
+    {
+      "aggregator": 1,
+      "prosumer": 3,
+      "supplier": 1
+    },
+    "model2":
+    {
+      "aggregator": 1,
+      "prosumer": 2,
+      "supplier": 0
+    }
+  },
+  "neighbors":
+  {
+    "num_neighbors": 5,
+    "num_neighborhoods": 10,
+    "num_circle": 5
+  }
+}

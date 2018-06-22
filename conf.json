@@ -1,0 +1,14 @@
+{
+  "catalog_address": "http://127.0.0.1:8080/",
+  "topic": "test/mesa/",
+  "broker_address": "iot.eclipse.org",
+  "log_level": "INFO",
+  "supplier": {
+    "file_name": "MGPPrezzi.xml",
+    "folder": "MGP_Prezzi2017010120170201"
+  },
+  "seed": 10,
+  "model_name": "model1",
+  "qos": 2,
+  "num_steps": 5
+}
